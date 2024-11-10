@@ -1,0 +1,6 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab/README.md/answer.md$ git log
+commit d88d34b4752483b25c585feaca81bf004d8a5008 (HEAD -> master)
+Author: Pham Thao Hien Vy <24100439@st.phenikaa-uni.edu.vn>
+Date:   Sun Nov 10 11:06:20 2024 +0700
+
+    Initial commit
