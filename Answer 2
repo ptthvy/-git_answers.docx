@@ -1,0 +1,8 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab$ git config --global user.name "Pham Thao Hien Vy"
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab$ git config --global user.email "24100439@st.phenikaa-uni.edu.vn"
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab$ git config --list
+user.name=Pham Thao Hien Vy
+user.email=24100439@st.phenikaa-uni.edu.vn
+use.name=Pham Thao Hien Vy
+use.email=24100439@st.phenikaa-uni.edu.vn
+credential.helper=cache
