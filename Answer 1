@@ -1,0 +1,4 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~$ mkdir git-lab
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~$ cd git-lab
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab$ git --version
+git version 2.34.1
