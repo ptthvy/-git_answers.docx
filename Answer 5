@@ -1,0 +1,9 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab/git-lab/README.md$ git add README.md
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab/git-lab/README.md$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
