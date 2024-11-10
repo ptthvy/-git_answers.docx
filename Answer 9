@@ -1,0 +1,25 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab/README.md/answer.md$ echo "# -git-lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ptthvy/-git-lab.git
+git push -u origin main
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in /home/jupyter-24100439@st.phenik-12c28/git-lab/README.md/answer.md/.git/
+[master (root-commit) d8af56a] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+Username for 'https://github.com':
+Password for 'https://github.com':
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/ptthvy/-git-lab.git/'
