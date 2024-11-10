@@ -1,0 +1,12 @@
+jupyter-24100439@st.phenik-12c28@jupyter-virtual-machine:~/git-lab/README.md/answer.md$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   answer.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../git-lab/
